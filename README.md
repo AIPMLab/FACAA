@@ -4,12 +4,8 @@ This is the official PyTorch implementation for the paper: FACAA: Federated Adap
 <p align="center">
 <img src="./intro.png" alt="intro" width="90%"/>
 </p>
-## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+## Features
 
 
 ## Requirements
