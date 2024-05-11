@@ -2,7 +2,7 @@
 This is the official PyTorch implementation for the paper: FACAA: Federated Adaptative CLIP via Adversarial Adaptation
 
 <p align="center">
-<img src="./figures/Framework.png" alt="intro" width="90%"/>
+<img src="./figs/intro.png" alt="intro" width="90%"/>
 </p>
 ## Features
 
